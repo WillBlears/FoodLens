@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "324918627560",
+    "firebase_url": "https://foodlens-4785d.firebaseio.com",
+    "project_id": "foodlens-4785d",
+    "storage_bucket": "foodlens-4785d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324918627560:android:234f6b48d7addc1a",
+        "android_client_info": {
+          "package_name": "Food.Lens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324918627560-v6r2vs8ld1sd2odcn8qsau9acv9p5g5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJfH50VSSmS_W22-OdkhpL8Wi0NO8VdUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
